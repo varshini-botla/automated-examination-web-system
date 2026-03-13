@@ -75,16 +75,6 @@ npm run dev
 
 ---
 
-## 📸 Presentation Preview
-
-![Dashboard Preview](file:///C:/Users/botla/.gemini/antigravity/brain/449ee897-e341-425e-930d-ac6fed914999/media__1773381601340.png)
-*Figure 1: High-impact Analytics Dashboard with Glassmorphism finish.*
-
-![Exam Interface](file:///C:/Users/botla/.gemini/antigravity/brain/449ee897-e341-425e-930d-ac6fed914999/media__1773381618924.png)
-*Figure 2: Professional Examination Interface designed for focus.*
-
----
-
 ## 📄 Repository Metadata
 *   **Name**: `automated-examination-web-system`
 *   **Description**: A premium full-stack Automated Examination System built with Spring Boot 3 and React 18. Features secure JWT authentication, a stunning glassmorphism dashboard with real-time Recharts analytics, and an interactive exam interface. Pre-seeded with professional assessment data and an H2 persistent store. Engineered for scalability and high-impact UX.

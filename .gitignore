@@ -1,0 +1,28 @@
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Build
+target/
+build/
+bin/
+out/
+
+# Node
+node_modules/
+dist/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project-specific
+aetherexam-backend/target/
+aetherexam-frontend/node_modules/
+aetherexam-frontend/dist/
+aetherexam-backend/data/
+boot_log.txt
+build_err*.txt

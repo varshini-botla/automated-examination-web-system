@@ -81,5 +81,5 @@ npm run dev
 
 ---
 
-### 👑 Project Developed by [Varshini Botla]
-*This project was meticulously upgraded to meet "Ultra Pro" professional industry standards.*
+### 👑 Project Developed by Varshini Botla
+*This project was meticulously upgraded to meet professional industry standards.*
